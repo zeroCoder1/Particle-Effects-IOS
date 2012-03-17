@@ -1,10 +1,9 @@
-
  . The code uses a CAEmitterLayer to create an emitter other than using Cocos2d.
  . Getting the emmitter working is the first stage, editing the emmitter and making it work like cocos2d emitter 
     is the second stage.
  
  What I am planning to make it?
- . A Mulitouch emitter.
+ . A Multitouch emitter.
  . Different kinds of emitter just like cocos2D.
 
  Are there any known bugs?
