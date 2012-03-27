@@ -26,10 +26,9 @@
     SparkleTouchView * sparky = [[SparkleTouchView alloc]initWithFrame:CGRectMake(0, 0, 768, 1024)];
     [self.view addSubview:sparky];
 
-    SparkleTouchView * sparky1 = [[SparkleTouchView alloc]initWithFrame:CGRectMake(0, 0, 768, 1024) ];
-    [self.view addSubview:sparky1];
+   
     
-    [self.view setMultipleTouchEnabled:YES];    
+ 
 
 }
 
