@@ -9,7 +9,7 @@
 #import <UIKit/UIKit.h>
 #import <QuartzCore/QuartzCore.h>
 
-@interface SparkleTouchView : UIView{
+@interface TheSparky : UIView{
     
     CAEmitterLayer * emitter;
     CAEmitterLayer * emitter2;

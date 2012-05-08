@@ -7,9 +7,9 @@
 //
 
 
-#import "SparkleTouchView.h"
+#import "TheSparky.h"
 
-@implementation SparkleTouchView
+@implementation TheSparky
 
 - (id)initWithFrame:(CGRect)frame
 {

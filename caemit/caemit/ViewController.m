@@ -23,7 +23,7 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     
-    SparkleTouchView * sparky = [[SparkleTouchView alloc]initWithFrame:CGRectMake(0, 0, 768, 1024)];
+    TheSparky * sparky = [[TheSparky alloc]initWithFrame:CGRectMake(0, 0, 768, 1024)];
     [self.view addSubview:sparky];
 
    

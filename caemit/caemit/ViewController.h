@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "SparkleTouchView.h"
+#import "TheSparky.h"
 
 
 @interface ViewController : UIViewController{

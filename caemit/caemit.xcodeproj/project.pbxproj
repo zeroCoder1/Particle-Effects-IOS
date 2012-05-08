@@ -16,7 +16,7 @@
 		39C2ABC4150F652300C2D2A8 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 39C2ABC3150F652300C2D2A8 /* AppDelegate.m */; };
 		39C2ABC7150F652300C2D2A8 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 39C2ABC6150F652300C2D2A8 /* ViewController.m */; };
 		39C2ABCA150F652300C2D2A8 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 39C2ABC8150F652300C2D2A8 /* ViewController.xib */; };
-		39C2ABD2150F656D00C2D2A8 /* SparkleTouchView.m in Sources */ = {isa = PBXBuildFile; fileRef = 39C2ABD1150F656D00C2D2A8 /* SparkleTouchView.m */; };
+		39C2ABD2150F656D00C2D2A8 /* TheSparky.m in Sources */ = {isa = PBXBuildFile; fileRef = 39C2ABD1150F656D00C2D2A8 /* TheSparky.m */; };
 		39C2ABD4150F65AE00C2D2A8 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 39C2ABD3150F65AE00C2D2A8 /* QuartzCore.framework */; };
 		39C2ABD6150F67E200C2D2A8 /* computerFire.png in Resources */ = {isa = PBXBuildFile; fileRef = 39C2ABD5150F67E200C2D2A8 /* computerFire.png */; };
 		39C2ABD8150F6ADE00C2D2A8 /* med-fire.gif in Resources */ = {isa = PBXBuildFile; fileRef = 39C2ABD7150F6ADE00C2D2A8 /* med-fire.gif */; };
@@ -37,8 +37,8 @@
 		39C2ABC5150F652300C2D2A8 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		39C2ABC6150F652300C2D2A8 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		39C2ABC9150F652300C2D2A8 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
-		39C2ABD0150F656D00C2D2A8 /* SparkleTouchView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SparkleTouchView.h; sourceTree = "<group>"; };
-		39C2ABD1150F656D00C2D2A8 /* SparkleTouchView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SparkleTouchView.m; sourceTree = "<group>"; };
+		39C2ABD0150F656D00C2D2A8 /* TheSparky.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TheSparky.h; sourceTree = "<group>"; };
+		39C2ABD1150F656D00C2D2A8 /* TheSparky.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TheSparky.m; sourceTree = "<group>"; };
 		39C2ABD3150F65AE00C2D2A8 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		39C2ABD5150F67E200C2D2A8 /* computerFire.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = computerFire.png; sourceTree = "<group>"; };
 		39C2ABD7150F6ADE00C2D2A8 /* med-fire.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "med-fire.gif"; sourceTree = "<group>"; };
@@ -94,8 +94,8 @@
 				39C2ABC3150F652300C2D2A8 /* AppDelegate.m */,
 				39C2ABC5150F652300C2D2A8 /* ViewController.h */,
 				39C2ABC6150F652300C2D2A8 /* ViewController.m */,
-				39C2ABD0150F656D00C2D2A8 /* SparkleTouchView.h */,
-				39C2ABD1150F656D00C2D2A8 /* SparkleTouchView.m */,
+				39C2ABD0150F656D00C2D2A8 /* TheSparky.h */,
+				39C2ABD1150F656D00C2D2A8 /* TheSparky.m */,
 				39C2ABC8150F652300C2D2A8 /* ViewController.xib */,
 				39C2ABBA150F652300C2D2A8 /* Supporting Files */,
 			);
@@ -184,7 +184,7 @@
 				39C2ABC0150F652300C2D2A8 /* main.m in Sources */,
 				39C2ABC4150F652300C2D2A8 /* AppDelegate.m in Sources */,
 				39C2ABC7150F652300C2D2A8 /* ViewController.m in Sources */,
-				39C2ABD2150F656D00C2D2A8 /* SparkleTouchView.m in Sources */,
+				39C2ABD2150F656D00C2D2A8 /* TheSparky.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
