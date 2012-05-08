@@ -1,4 +1,12 @@
- . The code uses a CAEmitterLayer to create an emitter other than using Cocos2d.
+Update 8 may 12
+I have made it to work multitouch emitter. But for it to work you have to place both finger at once. 
+
+A MAJOR BUG.
+Once you place your finger and then keep another finger, the particle is stuck to the screen. Any fixes for this will be 
+awesome.
+
+
+. The code uses a CAEmitterLayer to create an emitter other than using Cocos2d.
  . Getting the emmitter working is the first stage, editing the emmitter and making it work like cocos2d emitter 
     is the second stage.
  
@@ -7,7 +15,7 @@
  . Different kinds of emitter just like cocos2D.
 
  Are there any known bugs?
-  .No. But if you find some just let me know. 
+  .A MAJOR BUG.. 
 
 Please feel free to use this code. Do let me if you add some awesome features into it..
 If you find any bugs please let me know and if you can improve this code please commit it here and let us share 
