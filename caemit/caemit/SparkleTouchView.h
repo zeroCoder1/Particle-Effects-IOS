@@ -11,13 +11,16 @@
 
 @interface SparkleTouchView : UIView{
     
-    
     CAEmitterLayer * emitter;
     CAEmitterLayer * emitter2;
-        float hue;
+    
+    float hue;
     
     CAEmitterCell* particle;
     CAEmitterCell* particle2;
+    
+    CGPoint touch1;
+    CGPoint touch2;
 }
 
 @end
